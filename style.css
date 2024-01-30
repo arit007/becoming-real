@@ -1,0 +1,31 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 3vw;
+}
+
+h1 {
+  
+  font-family: 'Press Start 2P', cursive;
+  color: #e885c5; 
+}
+
+h2 {
+  font-family: 'Press Start 2P', cursive;
+  color: #ffa1e0;
+}
+
+.main{
+  display: flex;
+  justify-content: space-around;
+  height: 70vh;
+}
+
+.left, .right{
+  width: 46vw;
+}
+
+img{
+  height: 40vh;
+  width: auto;
+  margin: 3vh 0;
+}
