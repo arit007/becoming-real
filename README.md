@@ -15,7 +15,7 @@ I knew I wanted to utilize 3D printing in my project from the beginning and deci
 
 
 -------------------
-Site Originally Made Through:
+Project Site Made With:
 
 **Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
 
